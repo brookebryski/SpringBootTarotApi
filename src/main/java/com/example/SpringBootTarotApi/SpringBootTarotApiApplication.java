@@ -11,3 +11,6 @@ public class SpringBootTarotApiApplication {
 	}
 
 }
+
+// http://localhost:8080/tarot?card=Empress
+// http://localhost:8080/tarot?card=hanged%20man
